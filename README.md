@@ -1,2 +1,2 @@
-# Java Practice Problem
-Problem Solving in java
+# Practice with Java
+Practicing coding problems using Java
